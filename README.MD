@@ -18,12 +18,12 @@
 
 
 ### Glad to see you here!  
-I am a passionate Android developer with a proven track record in developing and maintaining mobile applications using Java or Kotlin. 
+I'm an Android developer passionate about technology, with proven experience in developing and maintaining applications for mobile devices using Java or Kotlin languages.
 
-I have advanced knowledge in Android application development, including programming best practices, application architecture, design patterns, and technologies such as Jetpack Compose, Material Design, Coroutines, Git and Github, UI/UX, Unit Tests, and REST APIs. 
+I have advanced knowledge in Android application development, including good programming practices, application architecture, design patterns and technologies such as Jetpack Compose, Material Design, Coroutines, Git and Github, UI/UX, Unit Tests and REST API.
 
-Additionally, I have strong problem-solving skills, ability to work in a team, and ability to quickly learn new technologies. I am always seeking to stay up-to-date with the latest trends and technologies in the world of Android app development.
-  
+In addition, I have strong problem solving skills, ability to work in a team and ability to learn new technologies quickly. I'm always looking to stay up to date with the latest trends and technologies in the world of Android app development.
+
 <br/>  
 
 
@@ -92,4 +92,4 @@ Additionally, I have strong problem-solving skills, ability to work in a team, a
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://profilinator.Jpaulo47/" target="_blank">Github Profilinator</a></div>
