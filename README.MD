@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-rodrigues-silva/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/joaopaulo.rodrigues" target="_blank">
+<a href="https://gitlab.devrgesus.com.br/joaopaulo.rodrigues" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
 <a href="https://stackoverflow.com/users/20472993/jo%c3%a3o-paulo" target="_blank">
