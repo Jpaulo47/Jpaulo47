@@ -79,17 +79,8 @@ In addition, I have strong problem solving skills, ability to work in a team and
 
 <br/>  
 
-  
-
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
-
-<br/>  
-
-
-<br />
 
 ----
 
