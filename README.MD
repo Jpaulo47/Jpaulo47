@@ -92,4 +92,4 @@ In addition, I have strong problem solving skills, ability to work in a team and
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.Jpaulo47/" target="_blank">Github Profilinator</a></div>
+
