@@ -18,13 +18,12 @@
 
 
 ### Glad to see you here!  
-Sou um desenvolvedor Android apaixonado por tecnologia, com experiência comprovada no desenvolvimento e manutenção de aplicativos para dispositivos móveis utilizando as linguagens Java ou Kotlin. 
+I am a passionate Android developer with a proven track record in developing and maintaining mobile applications using Java or Kotlin. 
 
-Possuo conhecimento avançado em desenvolvimento de aplicações para Android, incluindo boas práticas de programação, arquitetura de aplicativos, padrões de projeto e tecnologias como Jetpack Compose, Material Design, Coroutines, Git e Github, UI/UX, Testes Unitários e API REST.  
+I have advanced knowledge in Android application development, including programming best practices, application architecture, design patterns, and technologies such as Jetpack Compose, Material Design, Coroutines, Git and Github, UI/UX, Unit Tests, and REST APIs. 
 
-Além disso, possuo forte capacidade de resolução de problemas, capacidade de trabalhar em equipe e habilidade para aprender novas tecnologias rapidamente. Estou sempre buscando manter-me atualizado com as últimas tendências e tecnologias no mundo do desenvolvimento de aplicativos para Android.  
+Additionally, I have strong problem-solving skills, ability to work in a team, and ability to quickly learn new technologies. I am always seeking to stay up-to-date with the latest trends and technologies in the world of Android app development.
   
-
 <br/>  
 
 
