@@ -1,16 +1,16 @@
 ## Hey 👋, I'm João Rodrigues!  
   
 
-<a href="https://github.com/https://github.com/Jpaulo47" target="_blank">
+<a href="https://github.com/Jpaulo47" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jo%C3%A3o-paulo-rodrigues-silva/" target="_blank">
+<a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-rodrigues-silva/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/https://gitlab.devrgesus.com.br/joaopaulo.rodrigues" target="_blank">
+<a href="https://gitlab.com/joaopaulo.rodrigues" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20472993/jo%c3%a3o-paulo" target="_blank">
+<a href="https://stackoverflow.com/users/20472993/jo%c3%a3o-paulo" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>  
   
