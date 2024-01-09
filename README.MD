@@ -77,8 +77,6 @@ In addition, I have strong problem solving skills, ability to work in a team and
 
 </td></tr></table>  
 
-<a href="https://app.daily.dev/jpaulo47"><img src="https://api.daily.dev/devcards/3c708fca5998443d99f47f2af2563bd4.png?r=i3w" width="400" alt="João Paulo's Dev Card"/></a>
-
 <br/>  
 
 <br/>  
